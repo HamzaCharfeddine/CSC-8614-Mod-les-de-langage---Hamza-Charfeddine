@@ -1,4 +1,4 @@
-# TP1 - Fine-tuning GPT-2 for Spam Detection
+# TP2 - Fine-tuning GPT-2 for Spam Detection
 
 - Nom: Charfeddine
 - Prénom: Hamza
