@@ -1,0 +1,52 @@
+[
+  {
+    "id": "q1",
+    "question": "Quels sont les sujets de PFE supplémentaires proposés par Luca Benedetto ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q2",
+    "question": "Comment valider une UE ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q3",
+    "question": "Quel le nombre minimal des membres d'un groupe dans le module ENG 8601 ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q4",
+    "question": "Combien de nouveaux modèles de liseuses sont disponibles à la médiathèque ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q5",
+    "question": "Combien va durer l'ouverture de l'évaluation du module CSC8607 ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q6",
+    "question": "Combien d'étudiants et de jeunes diplômés font déjà confiance à Trainy ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q7",
+    "question": "Quelle est la date du job dating de Sopra Steria ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q8",
+    "question": "Faut-il supprimer l'ancien compte IMTBS/TSP sur le site Job Teaser avant de créer le nouveau compte Télécom SudParis ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q9",
+    "question": "A quelle adresse la visite d’entreprise chez TALAN aura lieu ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q10",
+    "question": "QuelLe bâtiment a subi une coupure d'électricité et n'a pas été en mesure d'assurer le service de restauration ?",
+    "expected_doc_type": "email"
+  }
+]
