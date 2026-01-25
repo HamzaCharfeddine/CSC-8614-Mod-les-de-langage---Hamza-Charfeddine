@@ -1,0 +1,6 @@
+{"run_id": "62076ef6-67db-494f-bedf-68b56689bdd7", "ts": "2026-01-23T10:23:19.504257Z", "event": "node_start", "data": {"node": "classify_email", "email_id": "E11"}}
+{"run_id": "62076ef6-67db-494f-bedf-68b56689bdd7", "ts": "2026-01-23T10:25:14.791108Z", "event": "node_end", "data": {"node": "classify_email", "status": "ok", "decision": {"intent": "reply", "category": "admin", "priority": 3, "risk_level": "low", "needs_retrieval": false, "retrieval_query": "", "rationale": "Email administratif standard nécessitant une réponse."}}}
+{"run_id": "62076ef6-67db-494f-bedf-68b56689bdd7", "ts": "2026-01-23T10:25:14.794109Z", "event": "node_start", "data": {"node": "maybe_retrieve"}}
+{"run_id": "62076ef6-67db-494f-bedf-68b56689bdd7", "ts": "2026-01-23T10:25:14.794109Z", "event": "node_end", "data": {"node": "maybe_retrieve", "status": "skipped"}}
+{"run_id": "62076ef6-67db-494f-bedf-68b56689bdd7", "ts": "2026-01-23T10:25:14.796109Z", "event": "node_start", "data": {"node": "stub_reply"}}
+{"run_id": "62076ef6-67db-494f-bedf-68b56689bdd7", "ts": "2026-01-23T10:25:14.797115Z", "event": "node_end", "data": {"node": "stub_reply", "status": "ok"}}

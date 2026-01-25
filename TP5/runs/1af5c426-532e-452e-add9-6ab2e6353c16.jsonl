@@ -1,0 +1,2 @@
+{"run_id": "1af5c426-532e-452e-add9-6ab2e6353c16", "ts": "2026-01-23T08:03:27.052351Z", "event": "node_start", "data": {"node": "classify_email", "email_id": "E01"}}
+{"run_id": "1af5c426-532e-452e-add9-6ab2e6353c16", "ts": "2026-01-23T08:05:26.665837Z", "event": "node_end", "data": {"node": "classify_email", "status": "ok", "decision": {"intent": "reply", "category": "admin", "priority": 3, "risk_level": "low", "needs_retrieval": false, "retrieval_query": "", "rationale": "Email administratif standard nécessitant une réponse."}}}

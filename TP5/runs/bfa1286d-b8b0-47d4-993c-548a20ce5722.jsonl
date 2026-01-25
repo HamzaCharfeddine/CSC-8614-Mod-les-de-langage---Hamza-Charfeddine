@@ -1,0 +1,8 @@
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:31:04.283096Z", "event": "node_start", "data": {"node": "classify_email", "email_id": "E11"}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:33:01.114229Z", "event": "node_end", "data": {"node": "classify_email", "status": "ok", "decision": {"intent": "reply", "category": "admin", "priority": 3, "risk_level": "low", "needs_retrieval": false, "retrieval_query": "", "rationale": "Email administratif standard nécessitant une réponse."}}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:33:01.118232Z", "event": "node_start", "data": {"node": "maybe_retrieve"}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:33:01.120248Z", "event": "node_end", "data": {"node": "maybe_retrieve", "status": "skipped"}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:33:01.123232Z", "event": "node_start", "data": {"node": "draft_reply"}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:35:44.726587Z", "event": "node_end", "data": {"node": "draft_reply", "status": "ok", "n_citations": 1}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:35:44.729732Z", "event": "node_start", "data": {"node": "check_evidence"}}
+{"run_id": "bfa1286d-b8b0-47d4-993c-548a20ce5722", "ts": "2026-01-25T10:35:44.730812Z", "event": "node_end", "data": {"node": "check_evidence", "status": "ok", "evidence_ok": true, "last_draft_had_valid_citations": true, "retrieval_attempts": 0}}
